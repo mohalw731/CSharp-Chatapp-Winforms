@@ -1,0 +1,28 @@
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.exe.config
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.exe
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.pdb
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.exe
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.pdb
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\bin\Debug\Guna.UI2.dll
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\bin\Debug\Siticone.UI.dll
+C:\Users\46763\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\46763\Desktop\chatt app\src\Client\Client\bin\Debug\Client.exe.config
+C:\Users\46763\Desktop\chatt app\src\Client\Client\bin\Debug\Client.exe
+C:\Users\46763\Desktop\chatt app\src\Client\Client\bin\Debug\Client.pdb
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.exe
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.pdb
+C:\Users\46763\Desktop\chatt app\src\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\46763\Desktop\chatt app\src\Client\Client\obj\Debug\Client.csproj.Fody.CopyLocal.cache
